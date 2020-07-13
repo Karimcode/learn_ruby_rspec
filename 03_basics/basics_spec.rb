@@ -1,4 +1,4 @@
-require 'basics'
+require_relative 'basics'
 
 describe 'who is the biggest number' do
   # Hint: 'def who_is_bigger(a, b, c)'
